@@ -1,7 +1,7 @@
 
 # Module 19 - Unsupervised Learning
 
-[Bitcoin](C:\Users\justi\Downloads\blockchain-technology-controls-digital-currency-transactions-online-generated-by-ai.jpg)
+![Bitcoin](blockchain-technology-controls-digital-currency-transactions-online-generated-by-ai.jpg)
 
 ## Crypto Clustering Challenge
 In this challenge I used my prior Python knowledge acquired in previous modules and newly gained ***Unsupervised Learning*** concepts to predict if and how various cryptocurrencies are affected by 24-hour or 7-day changes. To analyze these phenomenon Python's extensive Machine Learning library `scikit-learn` was used along with 2 algorithms: an algorithm `KMeans` that clusters data into seperate samples of equal variance and `PCA` a statistical technique that streamlines the machine learning process by reducing the number of features used for the clustering. 
