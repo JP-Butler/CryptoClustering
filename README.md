@@ -79,7 +79,7 @@ A few libraries are needed to run the code file:
 
   
 
-*  `pandas`, see the [Anaconda Download](https://www.anaconda.com/distribution/#windows) site to install the full python package, Anaconda is a distribution of Python and should bring in all python libraries when completed.
+*  `pandas`, see the [Anaconda Download](https://www.anaconda.com/download) site to install the full python package, Anaconda is a distribution of Python and should bring in all python libraries when completed.
 
   
 
